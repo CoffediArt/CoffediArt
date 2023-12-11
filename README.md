@@ -12,3 +12,15 @@
   <h4 align="left">- 🖌️ Me apasiona grandemente el arte en todas sus formas </h4>
   <h4 align="left">- 📖 Cada día crezco en conocimiento y tecnica para mejorar en mis proyectos </h4>
 </div>
+<div id="Mision">
+  <h2 align="left">🚩 Misión 🚩</h2>
+  <h4 align="left">- 🍃 Ofrecer a nuestros clientes productos y servicios artísticos de calidad, que se adapten a sus necesidades y expectativas, utilizando diferentes técnicas y materiales, con un enfoque sostenible y                            socialmente responsable. </h4>
+  <h4 align="left">- 🖼️ Dibujar, pintar y hacer arte con el propósito de generar valor y belleza, tanto para nuestros clientes como para la sociedad, utilizando nuestra experiencia, talento y creatividad. </h4>
+  <h4 align="left">- 👌🏽 Ser una empresa de arte que se distinga por su profesionalismo, innovación y diversidad, que contribuya al crecimiento y la difusión de la cultura artística en Colombia y en el mundo. </h4>
+</div>
+<div id="Vision">
+  <h2 align="left">📈 Vision 📈</h2>
+  <h4 align="left">- ⭐ Ser una empresa líder en el mercado del arte en Colombia, ofreciendo productos y servicios de alta calidad, innovación y creatividad, que reflejen la identidad y la cultura de nuestro país. </h4>
+  <h4 align="left">- 🌱 Inspirar y transformar el mundo con el arte, brindando soluciones personalizadas y originales a nuestros clientes, que expresen su personalidad y sus emociones. </h4>
+  <h4 align="left">- ❤️‍🔥 Crear arte con pasión y compromiso, buscando la excelencia y la satisfacción de nuestros clientes, así como el desarrollo personal y profesional de nuestro equipo. </h4>
+</div>
